@@ -42,13 +42,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/14) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-2. 🗣 Commented on [#14](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/14#issuecomment-4411509263) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-3. 🗣 Commented on [#14](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/14#issuecomment-4411499821) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-4. ❗ Opened issue [#14](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/14) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-5. 🔒 Closed issue [#13](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/13) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-6. 🗣 Commented on [#13](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/13#issuecomment-4411211116) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-7. ❗ Opened issue [#13](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/13) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+1. 💪 Opened PR [#30](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/30) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+2. ℹ️ Assigned PR [#30](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/30) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+3. 💪 Opened PR [#29](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/29) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+4. 🎉 Merged PR [#27](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/27) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+5. ℹ️ Labeled issue [#28](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/28) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+6. ❗ Opened issue [#28](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/28) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+7. 💪 Opened PR [#27](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/27) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
