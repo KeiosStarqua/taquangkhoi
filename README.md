@@ -42,13 +42,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#48](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/48) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-2. 🔒 Closed issue [#255](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/255) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-3. ❌ Closed PR [#269](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/269) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-4. 🔒 Closed issue [#253](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/253) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-5. 🎉 Merged PR [#256](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/256) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-6. 💪 Opened PR [#256](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/pull/256) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-7. 🔒 Closed issue [#54](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/54) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+1. 🔒 Closed issue [#252](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/252) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+2. ❗ Opened issue [#1](https://github.com/lehongan169-cell/BasicLearnWithAI/issues/1) in [lehongan169-cell/BasicLearnWithAI](https://github.com/lehongan169-cell/BasicLearnWithAI)
+3. 🗣 Commented on [#27163](https://github.com/anomalyco/opencode/pull/27163#issuecomment-4447364429) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+4. 🗣 Commented on [#27167](https://github.com/anomalyco/opencode/issues/27167#issuecomment-4447356820) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+5. 🗣 Commented on [#300](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/300#issuecomment-4446704295) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+6. ❗ Opened issue [#300](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/300) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+7. 🔒 Closed issue [#286](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/286) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
