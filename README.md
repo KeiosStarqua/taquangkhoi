@@ -42,13 +42,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#252](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/252) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-2. ❗ Opened issue [#1](https://github.com/lehongan169-cell/BasicLearnWithAI/issues/1) in [lehongan169-cell/BasicLearnWithAI](https://github.com/lehongan169-cell/BasicLearnWithAI)
-3. 🗣 Commented on [#27163](https://github.com/anomalyco/opencode/pull/27163#issuecomment-4447364429) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. 🗣 Commented on [#27167](https://github.com/anomalyco/opencode/issues/27167#issuecomment-4447356820) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-5. 🗣 Commented on [#300](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/300#issuecomment-4446704295) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-6. ❗ Opened issue [#300](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/300) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-7. 🔒 Closed issue [#286](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/286) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+1. ❗ Opened issue [#285](https://github.com/LotusInputMethod/fcitx5-lotus/issues/285) in [LotusInputMethod/fcitx5-lotus](https://github.com/LotusInputMethod/fcitx5-lotus)
+2. 🗣 Commented on [#601](https://github.com/BambooEngine/ibus-bamboo/issues/601#issuecomment-4460757908) in [BambooEngine/ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo)
+3. 🗣 Commented on [#46](https://github.com/fcitx/fcitx5-unikey/pull/46#issuecomment-4459815492) in [fcitx/fcitx5-unikey](https://github.com/fcitx/fcitx5-unikey)
+4. 🔒 Closed issue [#252](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/252) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+5. ❗ Opened issue [#1](https://github.com/lehongan169-cell/BasicLearnWithAI/issues/1) in [lehongan169-cell/BasicLearnWithAI](https://github.com/lehongan169-cell/BasicLearnWithAI)
+6. 🗣 Commented on [#27163](https://github.com/anomalyco/opencode/pull/27163#issuecomment-4447364429) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+7. 🗣 Commented on [#27167](https://github.com/anomalyco/opencode/issues/27167#issuecomment-4447356820) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
