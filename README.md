@@ -42,13 +42,13 @@
 
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4722](https://github.com/warpdotdev/warp/issues/4722#issuecomment-4499311071) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
-2. 🔒 Closed issue [#338](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/338) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-3. 🔒 Closed issue [#346](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/346) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-4. ❗ Opened issue [#285](https://github.com/LotusInputMethod/fcitx5-lotus/issues/285) in [LotusInputMethod/fcitx5-lotus](https://github.com/LotusInputMethod/fcitx5-lotus)
-5. 🗣 Commented on [#601](https://github.com/BambooEngine/ibus-bamboo/issues/601#issuecomment-4460757908) in [BambooEngine/ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo)
-6. 🗣 Commented on [#46](https://github.com/fcitx/fcitx5-unikey/pull/46#issuecomment-4459815492) in [fcitx/fcitx5-unikey](https://github.com/fcitx/fcitx5-unikey)
-7. 🔒 Closed issue [#252](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/252) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+1. ❌ Closed PR [#22](https://github.com/TaQuangKhoi/taquangkhoi.github.io/pull/22) in [TaQuangKhoi/taquangkhoi.github.io](https://github.com/TaQuangKhoi/taquangkhoi.github.io)
+2. ❌ Closed PR [#21](https://github.com/TaQuangKhoi/taquangkhoi.github.io/pull/21) in [TaQuangKhoi/taquangkhoi.github.io](https://github.com/TaQuangKhoi/taquangkhoi.github.io)
+3. 🗣 Commented on [#4722](https://github.com/warpdotdev/warp/issues/4722#issuecomment-4499311071) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
+4. 🔒 Closed issue [#338](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/338) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+5. 🔒 Closed issue [#346](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/346) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
+6. ❗ Opened issue [#285](https://github.com/LotusInputMethod/fcitx5-lotus/issues/285) in [LotusInputMethod/fcitx5-lotus](https://github.com/LotusInputMethod/fcitx5-lotus)
+7. 🗣 Commented on [#601](https://github.com/BambooEngine/ibus-bamboo/issues/601#issuecomment-4460757908) in [BambooEngine/ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo)
 <!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
