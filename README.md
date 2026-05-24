@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://taquangkhoi.com">🌐 taquangkhoi.com</a>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;I'm+Keios+Starqua+(T%E1%BA%A1+Quang+Kh%C3%B4i);Mobile+%26+Game+Developer+%F0%9F%8E%AE;AI+Agents+Builder+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
@@ -20,7 +16,6 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taquangkhoi/)
 [![](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/taquangkhoi)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaQuangKhoi)
 
 </div>
 
