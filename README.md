@@ -13,95 +13,19 @@
 <!-- count from Mar 21, 2022 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=taquangkhoi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/taquangkhoi?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers=taquangkhoi?label=Followers&style=social" alt="GitHub followers" />
 </div>
-  
-# 🤘 My Status
-
-<!-- - 🌱 I'm currently learning Algorithm with [Hello, Algo](https://www.hello-algo.com) -->
-- 🌱 I'm currently building AI agents and exploring quantum programming.
-- 📝 I'm using RemNote for learning and I'm also a moderator of RemNote Community (check it out at [remnote.com](https://www.remnote.com/))
-- 😄 Pronouns: He/Him
-- 👨‍💻 I'm developing
-  - ...
-- 🫂 I'm contributing
-  - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler)
-- ☕ Buy me a Coffee : [https://ko-fi.com/taquangkhoi](https://ko-fi.com/taquangkhoi)
 
 <div align="center">
-  
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taquangkhoi/)
 [![](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/taquangkhoi)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaQuangKhoi)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-# ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/TaQuangKhoi/taquangkhoi.github.io/pull/22) in [TaQuangKhoi/taquangkhoi.github.io](https://github.com/TaQuangKhoi/taquangkhoi.github.io)
-2. ❌ Closed PR [#21](https://github.com/TaQuangKhoi/taquangkhoi.github.io/pull/21) in [TaQuangKhoi/taquangkhoi.github.io](https://github.com/TaQuangKhoi/taquangkhoi.github.io)
-3. 🗣 Commented on [#4722](https://github.com/warpdotdev/warp/issues/4722#issuecomment-4499311071) in [warpdotdev/warp](https://github.com/warpdotdev/warp)
-4. 🔒 Closed issue [#338](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/338) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-5. 🔒 Closed issue [#346](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup/issues/346) in [TaQuangKhoi/symphony-opencode-gh-issues-setup](https://github.com/TaQuangKhoi/symphony-opencode-gh-issues-setup)
-6. ❗ Opened issue [#285](https://github.com/LotusInputMethod/fcitx5-lotus/issues/285) in [LotusInputMethod/fcitx5-lotus](https://github.com/LotusInputMethod/fcitx5-lotus)
-7. 🗣 Commented on [#601](https://github.com/BambooEngine/ibus-bamboo/issues/601#issuecomment-4460757908) in [BambooEngine/ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo)
-<!--END_SECTION:activity-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 🥰 My Skills
-
-<div align="center">
-
-## 💻 Programming Languages
-
-<p align="center">
-	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-	<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-	<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"/>
-	<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-</p>
-
-## 🎨 Frontend Development
-
-<p align="center">
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</p>
-
-## 🔧 Backend Development
-
-<p align="center">
-	<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-</p>
-
-## 📱 Mobile Development
-
-<p align="center">
-	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 🪴 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taquangkhoi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TaQuangKhoi/TaQuangKhoi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<p align="center">See more at <a href="https://taquangkhoi.com">taquangkhoi.com</a></p>
 
 <!-- Đỗ Quyên - 07/12/2006 -->
