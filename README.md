@@ -38,12 +38,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🏆 Projects
-
-- [Vina Doctor](https://github.com/TaQuangKhoi/vina-doctor) — AI-powered Vietnamese medical assistant, built for [Qwen AI Build Day](https://qwen-ai-build-day.devpost.com) 🏥
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 # ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#22](https://github.com/TaQuangKhoi/taquangkhoi.github.io/pull/22) in [TaQuangKhoi/taquangkhoi.github.io](https://github.com/TaQuangKhoi/taquangkhoi.github.io)
