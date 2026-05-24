@@ -13,7 +13,7 @@
 <!-- count from Mar 21, 2022 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=taquangkhoi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers=taquangkhoi?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/taquangkhoi?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 <div align="center">
